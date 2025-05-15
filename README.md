@@ -10,8 +10,6 @@ Course: CIS 411
 
 Project Type: Group Project
 
-Submission Date: May 11, 2025
-
 Group Members:
 
 Gracy Patel: Interface design, database creation in Access, forms, navigation form, and documentation.
